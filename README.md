@@ -1,2 +1,4 @@
 # hello-world
-This is the personal Repository
+
+Hi Friends!
+Shivam is here, I love java.
